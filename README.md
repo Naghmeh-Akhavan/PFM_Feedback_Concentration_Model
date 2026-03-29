@@ -1,7 +1,10 @@
-# PFM Dynamic Concentration
-<!-- TODO: Correct the title -->
+# PFM and Feedback Concentration Model
 
-This repository contains a MATLAB implementation of a phase-field model (PFM) for a <!-- TODO: Short info on the model -->
+This repository contains a MATLAB implementation of a phase-field model (PFM) and feedback concentration model of the paper: 
+
+"Cell Migration Boundary Motion in Drosophila Egg Chambers: A Combined Phase Field and Chemoattractant Model"
+Naghmeh Akhavan, et al., 2026
+
 
 1. solve the baseline system without chemoattractant concentration to a steady state, and
 2. from that steady state; evolve a dynamic chemoattractant concentration field and its coupled cluster response.
@@ -196,6 +199,8 @@ Check that:
 - `dof.n_saved_c` divides the concentration step count
 
 
-## Suggested Citation
+## Author
 
-<!-- TODO: Add citation for the paper -->
+Naghmeh Akhavan - March 2026
+
+For questions or issues, please refer to the comments within individual MATLAB files or contact the author Naghmeh Akhavan (nakhavan@umich.edu) or Bradford E. Peercy (bpeercy@umbc.edu).
