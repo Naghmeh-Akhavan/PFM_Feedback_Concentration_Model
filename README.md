@@ -218,4 +218,4 @@ Check that:
 
 Naghmeh Akhavan - March 2026
 
-For questions or issues, please refer to the comments within individual MATLAB files or contact the author Naghmeh Akhavan (nakhavan@umich.edu) or Bradford E. Peercy (bpeercy@umbc.edu).
+For questions or issues, please refer to the comments within individual MATLAB files or contact the author Naghmeh Akhavan (nakhavan@umich.edu).
